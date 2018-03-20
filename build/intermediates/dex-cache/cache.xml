@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/chintan/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/chintan/Downloads/Tic-Tac-Toe-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_4b9ca3a0a1c4636759d6a4ecf7f8c3193aab1dc4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/chintan/.android/build-cache/a64b21cfe6d8001ebc32a640da2b6a83b8e21a24/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/chintan/Downloads/Tic-Tac-Toe-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_80cacd59fb4e24d05a4bfc2b6bed09733f5c0547/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/chintan/Downloads/Tic-Tac-Toe-master/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d04f5d4f6ff0d142d7a31e3c82b62a9c182becab">
+        <dex dex="/home/chintan/Downloads/Tic-Tac-Toe-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_debc2e79be79d11c81c21f45756a0cb03cdab3fb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/chintan/.android/build-cache/1c54c63ed15248d0ab48904136a5d6cde26fac78/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/chintan/Downloads/Tic-Tac-Toe-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f00296de9c0884ae192da9ac991c54c9a069e15c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/chintan/.android/build-cache/a01850907c7ed370ed472dc668722575d825d909/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/chintan/Downloads/Tic-Tac-Toe-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_523615177882fe798b19e7f0ce0f3e746eaa1357/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/chintan/.android/build-cache/a959da3f34fd85e2fd96fd94d19fd790351d6372/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/chintan/Downloads/Tic-Tac-Toe-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d735d6ef093041dcf726249a42f139c9f2d8ba37/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/chintan/.android/build-cache/cc4c50f5ba2625002084563bbe624be5f9842112/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/chintan/Downloads/Tic-Tac-Toe-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_882ebe62b6a25c4653e20f65de0e1d52f9050047/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/chintan/.android/build-cache/1aa58b373745dad4869065541a478d00a803426f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/chintan/Downloads/Tic-Tac-Toe-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4432a7ffd7dae118634092ad1412ac124efbbbc5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/chintan/.android/build-cache/d0ced1752000acb0326e68a985353415c6cbff4f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/chintan/Downloads/Tic-Tac-Toe-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_eaff7d47a8a38f8d29cf107d9429623bcf63b344/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/chintan/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/chintan/Downloads/Tic-Tac-Toe-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_6949af0a2d96c3862d8c839e20601b5da450e154/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/chintan/.android/build-cache/511bdc7c6f4889f755797bb680c2938f81e8b4aa/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/chintan/Downloads/Tic-Tac-Toe-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7dbc3d4c5cdc035c9945a85580c99bf84046446d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/chintan/.android/build-cache/2662da0375dd88b9977a1b9aaacf3016cd549aac/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/chintan/Downloads/Tic-Tac-Toe-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9f2a3bca4c2b4d5357019e4e2fbea50a30954a8c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/chintan/Downloads/Tic-Tac-Toe-master/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/chintan/Downloads/Tic-Tac-Toe-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_21415ee1db6c4ae5b92798ac02fe56b341b1bc7b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/chintan/.android/build-cache/b7d16693591162cfd0f5e2b19025d26ed395351e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/chintan/Downloads/Tic-Tac-Toe-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b5cad14d3e9e8f8055923e665cb62e984c349af4/classes.dex" />
+    </item>
+
+</items>
